@@ -1,7 +1,3 @@
-Here’s a professional and elegant **README.md** for your **Simple Calculator** C# console application:
-
----
-
 ```markdown
 # 🧮 Simple Calculator Console App
 
